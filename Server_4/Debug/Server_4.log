@@ -1,0 +1,14 @@
+﻿  Server_4.cpp
+E:\大三下\计算机网络课设\network\Server_4\Server_4.cpp(39,33): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+E:\大三下\计算机网络课设\network\Server_4\Server_4.cpp(220,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\大三下\计算机网络课设\network\Server_4\Server_4.cpp(228,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\大三下\计算机网络课设\network\Server_4\Server_4.cpp(231,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\大三下\计算机网络课设\network\Server_4\Server_4.cpp(237,10): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\大三下\计算机网络课设\network\Server_4\Server_4.cpp(240,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\大三下\计算机网络课设\network\Server_4\Server_4.cpp(260,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\大三下\计算机网络课设\network\Server_4\Server_4.cpp(268,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\大三下\计算机网络课设\network\Server_4\Server_4.cpp(272,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\大三下\计算机网络课设\network\Server_4\Server_4.cpp(290,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\大三下\计算机网络课设\network\Server_4\Server_4.cpp(345,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\大三下\计算机网络课设\network\Server_4\Server_4.cpp(422,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Server_4.vcxproj -> E:\大三下\计算机网络课设\network\Client_1\Debug\Server_4.exe

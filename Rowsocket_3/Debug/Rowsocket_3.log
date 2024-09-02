@@ -1,0 +1,6 @@
+﻿  Rowsocket.cpp
+F:\计算机网络课设\network\Rowsocket_3\Rowsocket.cpp(76,30): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+F:\计算机网络课设\network\Rowsocket_3\Rowsocket.cpp(131,26): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+F:\计算机网络课设\network\Rowsocket_3\Rowsocket.cpp(132,29): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+F:\计算机网络课设\network\Rowsocket_3\Rowsocket.cpp(85,8): warning C4101: “dwBytesReturned”: 未引用的局部变量
+  Rowsocket_3.vcxproj -> F:\计算机网络课设\network\Client_1\Debug\Rowsocket_3.exe

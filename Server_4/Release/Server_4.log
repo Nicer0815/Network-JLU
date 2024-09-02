@@ -1,0 +1,38 @@
+﻿  Server_4.cpp
+E:\大三下\计算机网络课设\network\Server_4\Server_4.cpp(39,33): error C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+E:\大三下\计算机网络课设\network\Server_4\Server_4.cpp(219,8): error C2664: “DWORD GetCurrentDirectoryW(DWORD,LPWSTR)”: 无法将参数 2 从“char [256]”转换为“LPWSTR”
+E:\大三下\计算机网络课设\network\Server_4\Server_4.cpp(219,50): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+E:\Windows Kits\10\Include\10.0.22000.0\um\processenv.h(241,1): message : 参见“GetCurrentDirectoryW”的声明
+E:\大三下\计算机网络课设\network\Server_4\Server_4.cpp(219,8): message : 尝试匹配参数列表“(int, char [256])”时
+E:\大三下\计算机网络课设\network\Server_4\Server_4.cpp(220,4): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\大三下\计算机网络课设\network\Server_4\Server_4.cpp(225,7): error C2664: “BOOL SetCurrentDirectoryW(LPCWSTR)”: 无法将参数 1 从“char [256]”转换为“LPCWSTR”
+E:\大三下\计算机网络课设\network\Server_4\Server_4.cpp(225,31): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+E:\Windows Kits\10\Include\10.0.22000.0\um\processenv.h(219,1): message : 参见“SetCurrentDirectoryW”的声明
+E:\大三下\计算机网络课设\network\Server_4\Server_4.cpp(225,7): message : 尝试匹配参数列表“(char [256])”时
+E:\大三下\计算机网络课设\network\Server_4\Server_4.cpp(227,9): error C2664: “DWORD GetCurrentDirectoryW(DWORD,LPWSTR)”: 无法将参数 2 从“char [256]”转换为“LPWSTR”
+E:\大三下\计算机网络课设\network\Server_4\Server_4.cpp(227,51): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+E:\Windows Kits\10\Include\10.0.22000.0\um\processenv.h(241,1): message : 参见“GetCurrentDirectoryW”的声明
+E:\大三下\计算机网络课设\network\Server_4\Server_4.cpp(227,9): message : 尝试匹配参数列表“(int, char [256])”时
+E:\大三下\计算机网络课设\network\Server_4\Server_4.cpp(228,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\大三下\计算机网络课设\network\Server_4\Server_4.cpp(231,4): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\大三下\计算机网络课设\network\Server_4\Server_4.cpp(260,4): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\大三下\计算机网络课设\network\Server_4\Server_4.cpp(268,3): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\大三下\计算机网络课设\network\Server_4\Server_4.cpp(290,3): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\大三下\计算机网络课设\network\Server_4\Server_4.cpp(237,10): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\大三下\计算机网络课设\network\Server_4\Server_4.cpp(240,4): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\大三下\计算机网络课设\network\Server_4\Server_4.cpp(272,4): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\大三下\计算机网络课设\network\Server_4\Server_4.cpp(345,22): warning C4477: “sprintf”: 格式字符串“%-20s”需要类型“char *”的参数，但可变参数 8 拥有了类型“WCHAR *”
+E:\大三下\计算机网络课设\network\Server_4\Server_4.cpp(345,22): message : 请考虑在格式字符串中使用“%ls”
+E:\大三下\计算机网络课设\network\Server_4\Server_4.cpp(345,22): message : 请考虑在格式字符串中使用“%lls”
+E:\大三下\计算机网络课设\network\Server_4\Server_4.cpp(345,22): message : 请考虑在格式字符串中使用“%Ls”
+E:\大三下\计算机网络课设\network\Server_4\Server_4.cpp(345,22): message : 请考虑在格式字符串中使用“%ws”
+E:\大三下\计算机网络课设\network\Server_4\Server_4.cpp(345,2): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\大三下\计算机网络课设\network\Server_4\Server_4.cpp(371,8): error C2664: “HANDLE FindFirstFileW(LPCWSTR,LPWIN32_FIND_DATAW)”: 无法将参数 1 从“const char [2]”转换为“LPCWSTR”
+E:\大三下\计算机网络课设\network\Server_4\Server_4.cpp(371,22): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+E:\Windows Kits\10\Include\10.0.22000.0\um\fileapi.h(248,1): message : 参见“FindFirstFileW”的声明
+E:\大三下\计算机网络课设\network\Server_4\Server_4.cpp(371,8): message : 尝试匹配参数列表“(const char [2], WIN32_FIND_DATA *)”时
+E:\大三下\计算机网络课设\network\Server_4\Server_4.cpp(422,15): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\大三下\计算机网络课设\network\Server_4\Server_4.cpp(453,6): error C2664: “HANDLE FindFirstFileW(LPCWSTR,LPWIN32_FIND_DATAW)”: 无法将参数 1 从“const char *”转换为“LPCWSTR”
+E:\大三下\计算机网络课设\network\Server_4\Server_4.cpp(453,20): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+E:\Windows Kits\10\Include\10.0.22000.0\um\fileapi.h(248,1): message : 参见“FindFirstFileW”的声明
+E:\大三下\计算机网络课设\network\Server_4\Server_4.cpp(453,6): message : 尝试匹配参数列表“(const char *, WIN32_FIND_DATA *)”时
