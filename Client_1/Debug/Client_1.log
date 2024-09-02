@@ -1,0 +1,3 @@
+﻿  Client_1.cpp
+F:\计算机网络课设\network\Client_1\Client_1.cpp(25,32): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  Client_1.vcxproj -> F:\计算机网络课设\network\Client_1\Debug\Client_1.exe

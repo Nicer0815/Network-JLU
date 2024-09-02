@@ -1,0 +1,10 @@
+﻿  Client_4.cpp
+F:\计算机网络课设\network\Client_4\Client_4.cpp(150,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\计算机网络课设\network\Client_4\Client_4.cpp(176,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\计算机网络课设\network\Client_4\Client_4.cpp(179,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\计算机网络课设\network\Client_4\Client_4.cpp(240,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\计算机网络课设\network\Client_4\Client_4.cpp(243,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\计算机网络课设\network\Client_4\Client_4.cpp(302,1): warning C4326: “main”的返回类型应为“int”而非“void”
+F:\计算机网络课设\network\Client_4\Client_4.cpp(338,36): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+F:\计算机网络课设\network\Client_4\Client_4.cpp(357,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Client_4.vcxproj -> F:\计算机网络课设\network\Client_1\Debug\Client_4.exe

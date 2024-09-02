@@ -1,0 +1,2 @@
+F:\计算机网络课设\network\Client_1\Debug\Client_1.exe
+F:\计算机网络课设\network\Client_1\Debug\Client_1.pdb

@@ -1,0 +1,6 @@
+﻿  IOServer_2.cpp
+F:\计算机网络课设\network\IOServer_2\IOServer_2.cpp(77,22): warning C4018: “<”: 有符号/无符号不匹配
+F:\计算机网络课设\network\IOServer_2\IOServer_2.cpp(94,11): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+F:\计算机网络课设\network\IOServer_2\IOServer_2.cpp(134,53): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\计算机网络课设\network\IOServer_2\IOServer_2.cpp(135,7): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  IOServer_2.vcxproj -> F:\计算机网络课设\network\Client_1\Debug\IOServer_2.exe
